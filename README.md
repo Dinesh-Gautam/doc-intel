@@ -1,6 +1,6 @@
 # Strategic Insight Analyst
 
-This project is a full-stack web application designed for Omara Technologies. It allows users to upload documents, ask questions about them, and receive intelligent answers. The application is built with a Go backend and a Next.js frontend.
+It allows users to upload documents, ask questions about them, and receive intelligent answers. The application is built with a Go backend and a Next.js frontend.
 
 ## About The Project
 
