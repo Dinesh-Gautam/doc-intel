@@ -13,6 +13,10 @@ Key Features:
 - **Chat Interface:** Ask questions about your documents and get intelligent answers.
 - **Document Management:** View and manage your uploaded documents.
 
+## Demo
+
+https://github.com/user-attachments/assets/0e423e72-50ca-4bda-b339-9e21f51ae453
+
 ## Tech Stack
 
 This project is a monorepo and uses the following technologies:
